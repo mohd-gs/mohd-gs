@@ -33,8 +33,7 @@ Outside of that, I spend a lot of time thinking about how to make server-side sy
 |---|---|---|
 | Java | Expert | Server architecture, Fabric/Minecraft ecosystem |
 | Python | Advanced | Automation scripts, data tooling |
-| GDScript | Intermediate | Game mechanics, UI logic |
-| Rust / TypeScript | Learning | Systems work and web utilities |
+| Rust / TypeScript / JavaScript| Learning | Systems work and web utilities |
 
 **Environment:**  
 Git · Bash · Gradle · Linux (Debian/Fedora) · Hardware diagnostics when things go sideways
