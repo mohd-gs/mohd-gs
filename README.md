@@ -19,9 +19,9 @@ My main focus right now is the **Solidus Ecosystem** — a modular economy frame
 
 Outside of that, I spend a lot of time thinking about how to make server-side systems that don't fall apart at scale. Linux terminal is my natural habitat.
 
-- 🔧 Currently deep in: micro-economic simulation, game state automation, real-time server tracking
-- 🐧 Daily driver: Linux (Debian & Fedora depending on the machine)
-- 💬 Open to: OSS contributions, Java/Fabric projects, crypto bounties
+- Currently deep in: micro-economic simulation, game state automation, real-time server tracking
+- Daily driver: Linux 🐧(Debian & Fedora depending on the machine)
+- Open to: OSS contributions, Java/Fabric projects, crypto bounties
 
 ---
 
